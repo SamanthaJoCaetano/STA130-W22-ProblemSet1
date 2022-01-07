@@ -1,6 +1,6 @@
 ---
 title: "STA130H1S -- Winter 2022"
-author: "S. Caetano and S. Schwartz"
+author: "Your Name - Your Student Number"
 subtitle: Module 1 Problem Set 
 output:
   pdf_document: default
